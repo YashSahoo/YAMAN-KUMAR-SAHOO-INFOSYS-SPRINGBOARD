@@ -39,7 +39,7 @@ smartTraffix/
  ⚙️ Installation & Setup  
  1️⃣ Clone the Repository  
 
-git clone https://github.com/YOUR_USERNAME/smartTraffix.git
+git clone https://github.com/YashSahoo/YAMAN-KUMAR-SAHOO-INFOSYS-SPRINGBOARD
 cd smartTraffix
 
 
