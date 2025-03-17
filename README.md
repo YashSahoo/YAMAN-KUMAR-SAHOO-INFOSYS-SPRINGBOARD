@@ -1,4 +1,4 @@
-# smartTraffix 🚦  
+ANPR AND ATCC FOR SMART TRAFFIC MANAGEMENT 🚦  
  AI-Powered Traffic Monitoring and Violation Detection System  
 
  📌 Overview  
